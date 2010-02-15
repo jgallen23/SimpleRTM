@@ -11,8 +11,8 @@
 			<description><![CDATA[
 				<h2>Features</h2>
 				<ul>
+					<li>Renamed to MilkMaid <strong>(go to <a href="http://github.com/jgallen23/MilkMaid/downloads">http://github.com/jgallen23/MilkMaid/downloads</a> to get the latest verion)</strong></li>
 					<li>Search for Tasks (cmd-S)</li>
-					<li>Renamed to MilkMaid</li>
 				</ul>
 			]]></description>
 			<enclosure url="http://github.com/downloads/jgallen23/MilkMaid/MilkMaid-0.3.tar.gz" sparkle:version="0.3" length="1623481" type="application/octet-stream" sparkle:dsaSignature="MCwCFCkcW0fpA4sYyQeT8+7MtI43Utr4AhQR8ACrrlkRcuYbOtRqfnoWhrEjXw==" />
